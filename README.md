@@ -19,9 +19,9 @@ We welcome developers of all skill levels to contribute! Here’s how you can he
 4. **Join Discussions** and collaborate
 
 ## 📂 Repositories
-- **Frontend** – [`bazargo-frontend`](https://github.com/bazargo-frontend)
-- **Backend** – [`bazargo-api`](https://github.com/bazargo-api)
-- **Admin Dashboard** – [`bazargo-admin`](https://github.com/bazargo-admin)
+- **Frontend** – [`bazargo-web`](https://github.com/CodeNaut-BazarGo/bazargo-web)
+- **Backend** – [`bazargo-api`](https://github.com/CodeNaut-BazarGo/bazargo-api)
+- **Admin Dashboard** – [`bazargo-admin`](https://github.com/CodeNaut-BazarGo/bazargo-admin)
 
 ## 🛠 Contribution Guidelines
 - Always open **Pull Requests** for changes
@@ -30,8 +30,8 @@ We welcome developers of all skill levels to contribute! Here’s how you can he
 
 ## 💬 Community & Support
 Stay connected and collaborate:
-- **Telegram Channel:** [Join Us](https://t.me/yourchannel)
+- **Telegram Channel:** [Join Us](https://t.me/codenaut)
 - **Discussions & Issues:** Use GitHub Issues
-- **CodeNaut Community:** [CodeNaut Platform](https://yourplatformlink.com)
+- **CodeNaut Community:** [Telegram Group](https://t.me/codenaut_community)
 
 Let's build something amazing together! 🚀
