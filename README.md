@@ -13,7 +13,7 @@ BazarGo is designed to be a modern, efficient, and community-driven eCommerce so
 
 ## 🚀 Get Involved
 We welcome developers of all skill levels to contribute! Here’s how you can help:
-1. **Fork & Clone** the repositories
+1. **Clone** the repositories
 2. **Check the Issues** for open tasks
 3. **Submit PRs** (all changes go through review)
 4. **Join Discussions** and collaborate
@@ -36,3 +36,4 @@ Stay connected and collaborate:
 - **CodeNaut Community:** [Telegram Group](https://t.me/codenaut_community)
 
 Let's build something amazing together! 🚀
+
