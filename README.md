@@ -22,6 +22,7 @@ We welcome developers of all skill levels to contribute! Here’s how you can he
 - **Frontend** – [`bazargo-web`](https://github.com/CodeNaut-BazarGo/bazargo-web)
 - **Backend** – [`bazargo-api`](https://github.com/CodeNaut-BazarGo/bazargo-api)
 - **Admin Dashboard** – [`bazargo-admin`](https://github.com/CodeNaut-BazarGo/bazargo-admin)
+- **Docs** – [`bazargo-admin`](https://github.com/CodeNaut-BazarGo/bazargo-docs)
 
 ## 🛠 Contribution Guidelines
 - Always open **Pull Requests** for changes
